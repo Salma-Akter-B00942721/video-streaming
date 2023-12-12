@@ -1,6 +1,6 @@
 <?php
 
-$servername = "tcp:salma123.database.windows.net,1433";
+$servername = "salma123.database.windows.net";
 $username = "adminsalma";
 $password = "Seuh4khbp16";
 $dbname = "videodb";
